@@ -11,6 +11,8 @@
 //sdjfjhsdj
 //new branch
 
+//vadim bil zdes
+
 require_once('google-url-master/autoload.php');
 
         $googleUrl=new \GoogleUrl();
